@@ -1,0 +1,44 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+
+### VS Code ###
+.vscode/
+
+### Eclipse ###
+.project
+.classpath
+.settings/
+
+### MacOS ###
+.DS_Store
+
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+### Logs ###
+*.log
+logs/
+
+### Java ###
+*.class
+
+### Spring Boot ###
+*.jar
+*.war
+*.ear
+
+### Environment ###
+.env
+
+### Render / Deploy ###
+render.yaml
+
+### OS Files ###
+Thumbs.db
+Desktop.ini
